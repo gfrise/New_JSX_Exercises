@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom';
-import { hello } from './jsx-01';
+import { element } from './jsx-02';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(hello)
+root.render(element)
